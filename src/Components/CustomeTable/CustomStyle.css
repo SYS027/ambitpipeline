@@ -1,0 +1,15 @@
+.custom-select-label {
+    margin: 0 !important; 
+  }
+  .clickable-column {
+    cursor: pointer;
+    color: blue; 
+    /* text-decoration: underline;  */
+  }
+  .select-dropdown{
+    display: "flex";
+    align-items: center;
+    color: "#000";
+    padding: "8px 12px";
+  }
+  

@@ -1,0 +1,21 @@
+nav {
+  box-shadow: 0px 0px 4px 0px #00000040;
+  background-color: #ffffff;
+  font-size: 18px;
+  font-weight: 450;
+}
+
+nav .profile {
+  font-family: Poppins;
+  letter-spacing: 0.02em;
+  text-align: left;
+  font-weight: 600;
+}
+nav p {
+  font-family: Poppins;
+  font-size: 16px;
+  line-height: 18px;
+  color: #cacaca;
+  margin: 0;
+  font-weight: bolder;
+}
